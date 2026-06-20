@@ -1,0 +1,501 @@
+﻿id,latitude,longitude,zone_nom,timestamp,gravite,vitesse_kmh,meteo
+1,33.990447,-4.970124,Route de Sefrou,2023-01-26 23:17:00,léger,47,ensoleillé
+2,33.990583,-4.968629,Route de Sefrou,2023-03-31 18:27:00,léger,41,nuageux
+3,34.040989,-5.000011,Carrefour Sidi Brahim,2023-01-28 17:12:00,modéré,119,brouillard
+4,34.042621,-4.999109,Carrefour Sidi Brahim,2023-10-12 00:48:00,modéré,119,brouillard
+5,34.040777,-4.999312,Carrefour Sidi Brahim,2023-06-09 06:48:00,léger,41,brouillard
+6,34.012683,-5.008219,Rond-point Bensouda,2023-12-19 19:16:00,modéré,88,ensoleillé
+7,34.005218,-5.011722,Quartier Saada,2024-01-23 02:35:00,léger,110,pluie
+8,33.925648,-4.978306,Aéroport Fès-Saïss,2023-03-13 01:42:00,léger,67,ensoleillé
+9,34.044088,-5.004717,Rond-point Atlas,2023-04-14 12:17:00,léger,76,nuageux
+10,34.054183,-5.031271,Route de Meknès (N6),2023-08-03 21:17:00,modéré,117,ensoleillé
+11,33.991319,-4.970203,Route de Sefrou,2023-06-25 17:46:00,léger,89,brouillard
+12,34.041261,-5.001082,Carrefour Sidi Brahim,2023-08-13 21:20:00,modéré,37,nuageux
+13,34.04451,-5.0049,Rond-point Atlas,2023-11-20 12:17:00,léger,102,pluie
+14,34.032264,-4.999962,Avenue Hassan II,2024-05-26 12:56:00,grave,88,nuageux
+15,34.040659,-5.000063,Carrefour Sidi Brahim,2023-09-10 23:35:00,léger,104,brouillard
+16,34.074458,-4.958333,Route d'Immouzer,2024-02-13 11:14:00,grave,47,brouillard
+17,34.013088,-5.008752,Rond-point Bensouda,2023-02-18 03:09:00,modéré,117,brouillard
+18,33.92794,-4.978899,Aéroport Fès-Saïss,2024-01-30 12:38:00,grave,97,pluie
+19,34.023188,-5.029764,Université USMBA,2023-01-12 21:46:00,léger,98,pluie
+20,34.043805,-5.004823,Rond-point Atlas,2023-12-15 03:18:00,léger,88,ensoleillé
+21,34.062665,-4.974846,Mellah Fès el-Bali,2023-09-27 16:48:00,léger,43,pluie
+22,34.044896,-5.005271,Rond-point Atlas,2024-06-03 19:12:00,léger,50,ensoleillé
+23,33.925869,-4.978448,Aéroport Fès-Saïss,2024-05-15 00:07:00,grave,69,nuageux
+24,34.012685,-5.006849,Rond-point Bensouda,2023-03-22 02:46:00,léger,38,nuageux
+25,34.033609,-5.001887,Avenue Hassan II,2024-05-01 17:10:00,léger,107,brouillard
+26,34.023292,-5.028347,Université USMBA,2023-07-25 22:19:00,léger,115,pluie
+27,34.064391,-4.989449,Bd Mohammed V centre,2024-06-13 14:07:00,léger,38,pluie
+28,34.014028,-5.006962,Rond-point Bensouda,2023-08-24 18:14:00,léger,120,ensoleillé
+29,34.040445,-5.000078,Carrefour Sidi Brahim,2023-02-02 10:04:00,léger,65,brouillard
+30,34.033598,-4.999422,Avenue Hassan II,2023-05-16 23:59:00,modéré,103,brouillard
+31,34.040769,-4.999967,Carrefour Sidi Brahim,2024-04-29 13:12:00,léger,114,brouillard
+32,34.054004,-5.031077,Route de Meknès (N6),2024-02-25 14:55:00,modéré,116,ensoleillé
+33,34.013831,-5.006579,Rond-point Bensouda,2023-12-14 03:15:00,léger,98,brouillard
+34,34.033235,-4.999397,Avenue Hassan II,2023-07-07 08:29:00,léger,39,brouillard
+35,34.045325,-5.005581,Rond-point Atlas,2023-04-11 01:41:00,grave,31,ensoleillé
+36,34.075325,-4.958616,Route d'Immouzer,2023-08-31 05:26:00,léger,57,brouillard
+37,34.074968,-4.958592,Route d'Immouzer,2023-06-18 12:00:00,grave,63,brouillard
+38,34.038842,-4.99906,Carrefour Sidi Brahim,2024-05-13 04:12:00,léger,37,ensoleillé
+39,34.020078,-5.015269,Quartier Narjiss,2023-02-28 01:37:00,léger,97,nuageux
+40,34.013183,-5.009589,Rond-point Bensouda,2024-06-04 02:54:00,léger,106,ensoleillé
+41,33.989802,-4.969679,Route de Sefrou,2023-08-29 12:07:00,grave,102,nuageux
+42,33.92853,-4.978266,Aéroport Fès-Saïss,2023-02-10 19:05:00,léger,104,pluie
+43,34.009272,-5.040452,Quartier Agdal,2023-07-29 21:45:00,léger,63,brouillard
+44,34.034124,-5.000004,Avenue Hassan II,2023-11-04 14:20:00,grave,39,ensoleillé
+45,34.064523,-4.989538,Bd Mohammed V centre,2023-04-13 02:34:00,léger,63,nuageux
+46,34.010087,-5.039128,Quartier Agdal,2023-03-12 07:23:00,léger,86,pluie
+47,33.989368,-4.970295,Route de Sefrou,2023-01-09 21:52:00,léger,114,ensoleillé
+48,34.009647,-5.041317,Quartier Agdal,2023-05-18 08:07:00,modéré,100,nuageux
+49,34.041467,-4.999565,Carrefour Sidi Brahim,2023-08-04 22:21:00,léger,111,pluie
+50,34.065005,-4.990211,Bd Mohammed V centre,2023-09-15 01:05:00,modéré,65,ensoleillé
+51,34.011826,-5.008179,Rond-point Bensouda,2023-05-14 20:16:00,léger,86,brouillard
+52,33.926892,-4.978522,Aéroport Fès-Saïss,2023-04-25 02:56:00,modéré,49,ensoleillé
+53,34.044855,-5.004636,Rond-point Atlas,2023-06-01 13:08:00,léger,76,ensoleillé
+54,34.076698,-4.959843,Route d'Immouzer,2023-08-04 21:15:00,modéré,75,brouillard
+55,34.005232,-5.010067,Quartier Saada,2023-06-08 07:55:00,léger,52,brouillard
+56,34.011373,-5.007824,Rond-point Bensouda,2023-12-07 13:51:00,modéré,61,pluie
+57,34.033354,-4.998083,Avenue Hassan II,2023-04-21 12:55:00,léger,90,nuageux
+58,34.033127,-5.000029,Avenue Hassan II,2024-04-16 11:19:00,modéré,59,nuageux
+59,34.013069,-5.008852,Rond-point Bensouda,2023-07-17 12:21:00,léger,38,pluie
+60,34.056029,-5.029323,Route de Meknès (N6),2024-06-05 12:43:00,grave,98,pluie
+61,34.010712,-5.040818,Quartier Agdal,2023-04-29 08:11:00,léger,63,ensoleillé
+62,34.014363,-5.009062,Rond-point Bensouda,2024-03-20 11:46:00,modéré,85,ensoleillé
+63,34.055528,-5.028029,Route de Meknès (N6),2023-07-14 08:02:00,modéré,30,nuageux
+64,34.054109,-5.03051,Route de Meknès (N6),2023-03-13 21:58:00,léger,70,ensoleillé
+65,34.02009,-5.015453,Quartier Narjiss,2023-11-04 16:19:00,modéré,71,brouillard
+66,34.018604,-5.014938,Quartier Narjiss,2023-05-11 06:26:00,modéré,78,nuageux
+67,33.989044,-4.969574,Route de Sefrou,2023-11-05 12:35:00,modéré,68,pluie
+68,34.032473,-4.998905,Avenue Hassan II,2023-11-26 14:28:00,léger,57,brouillard
+69,34.044295,-5.00529,Rond-point Atlas,2023-06-23 21:05:00,léger,114,pluie
+70,34.013832,-5.008908,Rond-point Bensouda,2023-08-29 21:19:00,léger,55,nuageux
+71,34.013305,-5.006624,Rond-point Bensouda,2023-09-08 15:39:00,modéré,39,brouillard
+72,34.053553,-5.029834,Route de Meknès (N6),2023-07-19 22:44:00,léger,81,nuageux
+73,34.033534,-4.999596,Avenue Hassan II,2023-01-06 03:49:00,léger,52,brouillard
+74,34.011987,-5.008988,Rond-point Bensouda,2023-09-13 03:29:00,léger,89,pluie
+75,34.06247,-4.974733,Mellah Fès el-Bali,2024-03-29 19:52:00,modéré,94,brouillard
+76,34.045225,-5.004688,Rond-point Atlas,2024-04-01 05:47:00,modéré,87,pluie
+77,34.019388,-5.014791,Quartier Narjiss,2023-10-11 16:31:00,modéré,65,brouillard
+78,34.013364,-5.008443,Rond-point Bensouda,2023-10-20 07:17:00,léger,99,ensoleillé
+79,34.034979,-4.999874,Avenue Hassan II,2023-08-25 12:44:00,léger,57,ensoleillé
+80,34.053928,-5.029409,Route de Meknès (N6),2023-12-05 17:29:00,léger,56,brouillard
+81,34.054123,-5.029292,Route de Meknès (N6),2023-01-21 18:24:00,léger,75,pluie
+82,34.021043,-5.015739,Quartier Narjiss,2024-03-05 17:47:00,modéré,107,nuageux
+83,34.065867,-4.989628,Bd Mohammed V centre,2023-10-07 13:31:00,léger,73,brouillard
+84,34.02074,-5.013293,Quartier Narjiss,2024-04-23 04:39:00,léger,80,ensoleillé
+85,34.012879,-5.008478,Rond-point Bensouda,2024-03-14 04:55:00,léger,36,pluie
+86,34.054199,-5.030734,Route de Meknès (N6),2023-08-05 14:20:00,léger,78,pluie
+87,34.019931,-5.014693,Quartier Narjiss,2024-03-07 08:53:00,léger,32,ensoleillé
+88,34.080249,-5.019256,Zone industrielle Nord,2023-12-25 07:41:00,léger,113,ensoleillé
+89,34.020012,-5.013692,Quartier Narjiss,2023-09-11 06:53:00,léger,49,nuageux
+90,34.033062,-4.997852,Avenue Hassan II,2023-04-28 18:13:00,léger,62,pluie
+91,34.033863,-5.001071,Avenue Hassan II,2023-04-28 05:19:00,léger,33,pluie
+92,33.926236,-4.977366,Aéroport Fès-Saïss,2024-01-20 12:45:00,léger,105,nuageux
+93,34.012899,-5.007157,Rond-point Bensouda,2023-11-05 21:38:00,modéré,102,ensoleillé
+94,34.055426,-5.030066,Route de Meknès (N6),2024-03-14 21:23:00,léger,112,pluie
+95,34.012338,-5.009163,Rond-point Bensouda,2024-03-06 15:06:00,léger,76,brouillard
+96,34.019598,-5.014229,Quartier Narjiss,2024-03-21 05:46:00,léger,113,pluie
+97,33.990193,-4.971121,Route de Sefrou,2024-05-10 14:27:00,modéré,105,pluie
+98,34.041356,-4.999453,Carrefour Sidi Brahim,2023-09-09 02:17:00,modéré,61,brouillard
+99,33.926405,-4.977662,Aéroport Fès-Saïss,2024-01-24 10:01:00,léger,71,nuageux
+100,34.065052,-4.991029,Bd Mohammed V centre,2023-12-30 08:21:00,léger,106,pluie
+101,33.927522,-4.977295,Aéroport Fès-Saïss,2024-06-13 06:05:00,léger,82,brouillard
+102,33.928175,-4.976852,Aéroport Fès-Saïss,2023-09-04 22:30:00,modéré,92,brouillard
+103,34.04376,-5.005844,Rond-point Atlas,2023-04-06 09:14:00,léger,61,pluie
+104,33.990464,-4.969538,Route de Sefrou,2024-01-13 15:35:00,léger,84,pluie
+105,34.055464,-5.026533,Route de Meknès (N6),2024-04-09 08:19:00,léger,45,nuageux
+106,34.041714,-4.998778,Carrefour Sidi Brahim,2023-07-09 06:13:00,modéré,65,pluie
+107,34.005859,-5.009414,Quartier Saada,2023-07-18 09:14:00,léger,68,ensoleillé
+108,34.019716,-5.014317,Quartier Narjiss,2023-05-10 08:02:00,grave,100,pluie
+109,34.019304,-5.015213,Quartier Narjiss,2023-05-10 20:55:00,modéré,43,ensoleillé
+110,33.926763,-4.977726,Aéroport Fès-Saïss,2024-04-25 15:28:00,léger,36,pluie
+111,34.012083,-5.041681,Quartier Agdal,2024-05-04 03:52:00,léger,92,ensoleillé
+112,33.927818,-4.979251,Aéroport Fès-Saïss,2023-02-24 04:09:00,modéré,68,ensoleillé
+113,34.079575,-5.01902,Zone industrielle Nord,2023-05-02 17:48:00,léger,106,nuageux
+114,34.045058,-5.00597,Rond-point Atlas,2024-01-25 14:58:00,léger,105,brouillard
+115,34.040556,-4.999188,Carrefour Sidi Brahim,2023-03-03 19:47:00,léger,56,nuageux
+116,34.040543,-4.999605,Carrefour Sidi Brahim,2023-03-25 05:15:00,léger,39,nuageux
+117,34.013141,-5.008386,Rond-point Bensouda,2024-04-06 22:38:00,léger,34,nuageux
+118,34.04313,-4.999229,Carrefour Sidi Brahim,2023-10-17 22:55:00,léger,117,nuageux
+119,34.073177,-4.959832,Route d'Immouzer,2023-07-22 13:07:00,léger,112,nuageux
+120,34.074404,-4.959233,Route d'Immouzer,2023-05-26 02:03:00,léger,69,pluie
+121,34.064287,-4.990103,Bd Mohammed V centre,2024-04-24 22:19:00,modéré,64,brouillard
+122,34.065454,-4.989221,Bd Mohammed V centre,2023-02-10 13:47:00,léger,62,ensoleillé
+123,34.01202,-5.008101,Rond-point Bensouda,2023-01-22 21:52:00,léger,35,nuageux
+124,34.064573,-4.990588,Bd Mohammed V centre,2024-03-28 08:11:00,grave,85,brouillard
+125,34.024589,-5.027636,Université USMBA,2024-04-26 11:26:00,léger,115,ensoleillé
+126,34.043865,-5.004174,Rond-point Atlas,2023-12-04 13:44:00,léger,114,brouillard
+127,34.04691,-5.004071,Rond-point Atlas,2023-02-07 14:05:00,léger,71,ensoleillé
+128,34.021633,-5.028436,Université USMBA,2024-02-18 16:52:00,grave,114,brouillard
+129,34.05614,-5.030637,Route de Meknès (N6),2023-07-12 16:23:00,modéré,93,brouillard
+130,34.045399,-5.004303,Rond-point Atlas,2023-07-28 08:35:00,léger,66,brouillard
+131,34.074166,-4.960054,Route d'Immouzer,2024-05-11 03:01:00,grave,107,nuageux
+132,34.017083,-5.015922,Quartier Narjiss,2023-11-15 17:00:00,léger,41,nuageux
+133,34.079773,-5.021123,Zone industrielle Nord,2023-04-27 14:07:00,modéré,49,brouillard
+134,34.011469,-5.041287,Quartier Agdal,2023-10-26 16:45:00,léger,91,brouillard
+135,34.040804,-4.999682,Carrefour Sidi Brahim,2023-05-29 12:12:00,grave,95,nuageux
+136,34.046297,-5.006292,Rond-point Atlas,2023-10-10 13:21:00,grave,94,pluie
+137,34.046047,-5.004991,Rond-point Atlas,2023-10-17 23:19:00,modéré,104,brouillard
+138,34.044117,-5.004584,Rond-point Atlas,2024-04-02 17:30:00,léger,100,brouillard
+139,34.065179,-4.99054,Bd Mohammed V centre,2023-11-26 06:44:00,léger,79,nuageux
+140,34.045063,-5.005347,Rond-point Atlas,2024-02-25 01:20:00,modéré,120,brouillard
+141,34.055102,-5.029404,Route de Meknès (N6),2023-06-05 15:02:00,léger,105,pluie
+142,34.046427,-5.006114,Rond-point Atlas,2024-03-26 03:33:00,grave,31,nuageux
+143,34.05692,-5.031757,Route de Meknès (N6),2023-06-08 02:30:00,modéré,63,pluie
+144,33.989863,-4.969471,Route de Sefrou,2024-02-12 20:05:00,modéré,116,brouillard
+145,34.062253,-4.97556,Mellah Fès el-Bali,2024-05-14 17:02:00,modéré,60,pluie
+146,34.079813,-5.020444,Zone industrielle Nord,2023-04-03 13:06:00,modéré,120,ensoleillé
+147,34.06447,-4.989235,Bd Mohammed V centre,2023-11-03 00:02:00,léger,37,pluie
+148,34.055321,-5.030624,Route de Meknès (N6),2024-03-17 04:15:00,léger,102,nuageux
+149,34.03411,-5.000023,Avenue Hassan II,2023-03-22 19:55:00,léger,117,nuageux
+150,34.065732,-4.989433,Bd Mohammed V centre,2023-05-27 07:29:00,modéré,88,pluie
+151,33.989254,-4.970504,Route de Sefrou,2024-04-21 09:43:00,léger,39,brouillard
+152,34.062673,-4.974451,Mellah Fès el-Bali,2023-11-03 20:27:00,modéré,88,pluie
+153,34.033281,-5.000194,Avenue Hassan II,2024-01-29 15:06:00,léger,103,pluie
+154,33.92835,-4.978332,Aéroport Fès-Saïss,2023-10-30 00:53:00,modéré,65,ensoleillé
+155,33.927692,-4.977982,Aéroport Fès-Saïss,2023-02-20 19:47:00,léger,66,nuageux
+156,33.989804,-4.969011,Route de Sefrou,2023-12-27 07:40:00,léger,62,nuageux
+157,33.990743,-4.969268,Route de Sefrou,2023-02-10 09:50:00,léger,104,pluie
+158,34.021175,-5.014981,Quartier Narjiss,2023-04-03 09:20:00,modéré,52,nuageux
+159,34.033914,-5.000579,Avenue Hassan II,2024-01-10 16:32:00,grave,51,pluie
+160,34.075292,-4.960117,Route d'Immouzer,2024-05-08 09:47:00,modéré,44,brouillard
+161,34.023087,-5.027464,Université USMBA,2023-05-25 07:55:00,modéré,116,brouillard
+162,34.022264,-5.026117,Université USMBA,2024-01-10 02:50:00,léger,63,ensoleillé
+163,34.064095,-4.991093,Bd Mohammed V centre,2023-09-26 18:24:00,modéré,77,ensoleillé
+164,33.991042,-4.969288,Route de Sefrou,2024-04-27 00:39:00,modéré,101,pluie
+165,34.075562,-4.959434,Route d'Immouzer,2023-08-15 20:04:00,modéré,89,pluie
+166,33.989989,-4.970808,Route de Sefrou,2023-04-30 04:02:00,grave,68,brouillard
+167,34.033368,-5.000909,Avenue Hassan II,2023-08-29 17:08:00,léger,77,brouillard
+168,33.928078,-4.977932,Aéroport Fès-Saïss,2023-06-08 13:41:00,léger,92,brouillard
+169,34.009257,-5.040289,Quartier Agdal,2023-10-14 01:44:00,léger,86,brouillard
+170,34.062372,-4.975507,Mellah Fès el-Bali,2024-01-07 03:43:00,léger,112,pluie
+171,34.01236,-5.007581,Rond-point Bensouda,2023-10-10 06:07:00,grave,88,ensoleillé
+172,33.99022,-4.970456,Route de Sefrou,2023-01-22 01:50:00,léger,46,nuageux
+173,34.012676,-5.007591,Rond-point Bensouda,2023-08-01 18:13:00,modéré,59,pluie
+174,34.043697,-5.006267,Rond-point Atlas,2023-01-03 08:54:00,grave,46,pluie
+175,34.044353,-5.005192,Rond-point Atlas,2023-04-23 21:55:00,léger,31,pluie
+176,34.04528,-5.003672,Rond-point Atlas,2023-09-01 18:20:00,léger,63,ensoleillé
+177,34.034072,-5.000444,Avenue Hassan II,2024-03-07 16:07:00,modéré,90,brouillard
+178,34.044983,-5.005902,Rond-point Atlas,2024-06-09 18:06:00,léger,58,ensoleillé
+179,34.019983,-5.01526,Quartier Narjiss,2024-06-17 09:29:00,modéré,33,ensoleillé
+180,34.08029,-5.020745,Zone industrielle Nord,2024-02-16 13:43:00,léger,86,ensoleillé
+181,34.075467,-4.958621,Route d'Immouzer,2023-11-26 19:09:00,léger,65,pluie
+182,34.054902,-5.029638,Route de Meknès (N6),2023-10-29 14:32:00,modéré,42,ensoleillé
+183,34.045621,-5.005361,Rond-point Atlas,2023-08-09 13:28:00,modéré,82,pluie
+184,34.045202,-5.004989,Rond-point Atlas,2024-02-13 13:46:00,léger,84,pluie
+185,33.990088,-4.970696,Route de Sefrou,2024-01-19 04:43:00,grave,38,ensoleillé
+186,34.045022,-5.004552,Rond-point Atlas,2023-04-06 13:06:00,modéré,77,nuageux
+187,33.928506,-4.976937,Aéroport Fès-Saïss,2023-12-04 21:07:00,léger,115,brouillard
+188,34.046938,-5.005691,Rond-point Atlas,2023-02-22 09:38:00,léger,43,nuageux
+189,34.034085,-5.000135,Avenue Hassan II,2024-05-08 07:54:00,léger,101,pluie
+190,34.035271,-5.001027,Avenue Hassan II,2023-10-13 18:14:00,modéré,101,ensoleillé
+191,33.989244,-4.970539,Route de Sefrou,2023-10-01 00:11:00,léger,69,pluie
+192,34.053088,-5.030473,Route de Meknès (N6),2023-07-05 04:36:00,modéré,38,nuageux
+193,34.019317,-5.014865,Quartier Narjiss,2023-02-01 02:47:00,léger,78,brouillard
+194,34.065308,-4.988311,Bd Mohammed V centre,2023-06-11 11:19:00,modéré,102,ensoleillé
+195,34.075855,-4.960519,Route d'Immouzer,2023-06-09 05:48:00,modéré,116,ensoleillé
+196,34.040391,-4.999357,Carrefour Sidi Brahim,2024-03-10 15:38:00,léger,64,nuageux
+197,34.018812,-5.013352,Quartier Narjiss,2023-04-27 11:27:00,léger,116,brouillard
+198,34.066061,-4.990422,Bd Mohammed V centre,2023-11-12 01:14:00,léger,106,ensoleillé
+199,34.011558,-5.006582,Rond-point Bensouda,2023-11-05 06:49:00,léger,62,pluie
+200,34.041097,-4.998686,Carrefour Sidi Brahim,2023-01-08 15:47:00,léger,46,brouillard
+201,33.925765,-4.978339,Aéroport Fès-Saïss,2023-08-24 16:35:00,modéré,75,ensoleillé
+202,34.055005,-5.029958,Route de Meknès (N6),2023-02-13 13:01:00,léger,39,pluie
+203,33.926795,-4.977239,Aéroport Fès-Saïss,2024-02-19 22:40:00,léger,44,brouillard
+204,34.012139,-5.007928,Rond-point Bensouda,2023-11-29 05:51:00,grave,88,pluie
+205,34.013208,-5.007337,Rond-point Bensouda,2023-04-19 07:27:00,léger,97,ensoleillé
+206,34.05564,-5.031012,Route de Meknès (N6),2023-11-14 23:21:00,léger,51,ensoleillé
+207,34.063619,-4.98885,Bd Mohammed V centre,2023-04-27 16:32:00,léger,74,pluie
+208,34.020299,-5.015674,Quartier Narjiss,2023-06-01 07:06:00,léger,55,nuageux
+209,33.991396,-4.969896,Route de Sefrou,2023-03-19 05:49:00,modéré,89,brouillard
+210,33.991061,-4.969939,Route de Sefrou,2023-11-27 20:20:00,léger,38,brouillard
+211,34.066855,-4.98842,Bd Mohammed V centre,2023-11-07 08:37:00,léger,94,ensoleillé
+212,34.040976,-4.998926,Carrefour Sidi Brahim,2024-04-07 01:03:00,léger,66,ensoleillé
+213,33.990581,-4.968768,Route de Sefrou,2023-04-03 19:38:00,léger,89,ensoleillé
+214,34.064132,-4.989383,Bd Mohammed V centre,2023-07-12 10:38:00,léger,49,ensoleillé
+215,34.065953,-4.991583,Bd Mohammed V centre,2023-12-18 22:05:00,léger,52,ensoleillé
+216,34.040135,-5.001635,Carrefour Sidi Brahim,2024-03-24 14:33:00,léger,50,pluie
+217,34.054758,-5.029354,Route de Meknès (N6),2023-10-17 12:26:00,modéré,116,ensoleillé
+218,34.046352,-5.004933,Rond-point Atlas,2023-12-09 02:21:00,léger,116,brouillard
+219,34.042666,-5.001042,Carrefour Sidi Brahim,2023-06-03 10:05:00,léger,48,pluie
+220,34.039667,-4.99985,Carrefour Sidi Brahim,2024-02-06 04:38:00,modéré,40,pluie
+221,33.927546,-4.977829,Aéroport Fès-Saïss,2023-12-03 04:42:00,modéré,117,ensoleillé
+222,33.988139,-4.97008,Route de Sefrou,2024-03-09 16:23:00,léger,69,nuageux
+223,34.060826,-4.974397,Mellah Fès el-Bali,2023-12-16 15:12:00,léger,47,nuageux
+224,34.01343,-5.008646,Rond-point Bensouda,2023-04-14 16:49:00,léger,97,ensoleillé
+225,33.989538,-4.970953,Route de Sefrou,2023-05-15 19:24:00,léger,53,nuageux
+226,34.019944,-5.01414,Quartier Narjiss,2023-02-14 13:23:00,modéré,60,brouillard
+227,33.989113,-4.969546,Route de Sefrou,2024-04-04 07:34:00,léger,90,nuageux
+228,34.054523,-5.030714,Route de Meknès (N6),2024-03-27 14:49:00,léger,78,brouillard
+229,34.022904,-5.028932,Université USMBA,2023-07-24 19:08:00,modéré,36,brouillard
+230,34.074502,-4.961078,Route d'Immouzer,2023-04-16 22:54:00,léger,45,pluie
+231,34.014868,-5.007768,Rond-point Bensouda,2023-06-14 08:28:00,grave,48,brouillard
+232,34.01247,-5.007607,Rond-point Bensouda,2023-08-16 14:56:00,léger,33,brouillard
+233,34.012999,-5.007999,Rond-point Bensouda,2024-05-29 11:15:00,léger,40,pluie
+234,34.041753,-4.999118,Carrefour Sidi Brahim,2023-11-23 03:53:00,modéré,72,nuageux
+235,34.032823,-5.000818,Avenue Hassan II,2023-10-21 15:44:00,modéré,120,brouillard
+236,34.064752,-4.992072,Bd Mohammed V centre,2023-01-06 02:01:00,léger,49,brouillard
+237,34.011736,-5.00657,Rond-point Bensouda,2023-10-23 07:19:00,léger,60,brouillard
+238,33.99148,-4.970224,Route de Sefrou,2024-04-13 02:07:00,modéré,93,ensoleillé
+239,33.990519,-4.96972,Route de Sefrou,2023-09-05 22:09:00,léger,30,pluie
+240,34.043971,-4.998792,Carrefour Sidi Brahim,2024-03-02 05:42:00,modéré,97,pluie
+241,34.012985,-5.00866,Rond-point Bensouda,2024-06-22 17:32:00,modéré,94,ensoleillé
+242,34.053554,-5.029817,Route de Meknès (N6),2024-04-26 01:40:00,léger,77,pluie
+243,34.019319,-5.01628,Quartier Narjiss,2024-01-01 02:22:00,léger,114,ensoleillé
+244,34.044418,-5.005973,Rond-point Atlas,2023-12-07 04:02:00,léger,73,nuageux
+245,34.046518,-5.004207,Rond-point Atlas,2024-04-20 22:30:00,modéré,47,ensoleillé
+246,34.019993,-5.013668,Quartier Narjiss,2024-04-13 01:18:00,léger,55,ensoleillé
+247,34.04127,-5.000575,Carrefour Sidi Brahim,2023-11-14 16:25:00,grave,99,brouillard
+248,34.042571,-4.999315,Carrefour Sidi Brahim,2023-07-15 09:22:00,modéré,36,pluie
+249,34.040266,-4.999971,Carrefour Sidi Brahim,2024-01-12 13:56:00,léger,86,brouillard
+250,34.040412,-5.001045,Carrefour Sidi Brahim,2023-07-11 15:44:00,léger,96,pluie
+251,34.045834,-5.003282,Rond-point Atlas,2024-03-10 02:27:00,modéré,53,pluie
+252,34.039941,-4.999293,Carrefour Sidi Brahim,2023-03-23 10:42:00,léger,87,brouillard
+253,34.032714,-5.000738,Avenue Hassan II,2024-03-30 11:28:00,léger,75,brouillard
+254,34.040667,-5.000578,Carrefour Sidi Brahim,2023-02-28 02:42:00,modéré,76,nuageux
+255,34.062044,-4.975748,Mellah Fès el-Bali,2023-05-27 19:43:00,modéré,34,nuageux
+256,34.013343,-5.007845,Rond-point Bensouda,2024-01-11 11:24:00,grave,34,nuageux
+257,33.989785,-4.970817,Route de Sefrou,2024-01-15 11:28:00,modéré,103,nuageux
+258,33.926681,-4.97712,Aéroport Fès-Saïss,2024-02-12 10:41:00,léger,44,ensoleillé
+259,34.020451,-5.01588,Quartier Narjiss,2024-05-26 16:24:00,grave,45,pluie
+260,34.045089,-5.004324,Rond-point Atlas,2024-04-01 06:39:00,léger,92,nuageux
+261,34.031798,-4.999811,Avenue Hassan II,2023-03-17 14:11:00,modéré,86,ensoleillé
+262,34.044404,-5.004486,Rond-point Atlas,2023-11-24 21:22:00,modéré,100,pluie
+263,34.074313,-4.961624,Route d'Immouzer,2023-06-11 22:45:00,grave,111,nuageux
+264,34.043535,-5.004957,Rond-point Atlas,2024-06-04 07:07:00,grave,47,nuageux
+265,34.045234,-5.005814,Rond-point Atlas,2023-01-27 11:35:00,léger,89,nuageux
+266,33.990575,-4.971495,Route de Sefrou,2023-03-30 02:19:00,léger,91,brouillard
+267,34.044941,-5.00609,Rond-point Atlas,2023-03-17 04:20:00,modéré,87,brouillard
+268,33.989413,-4.969957,Route de Sefrou,2023-12-19 04:56:00,modéré,100,nuageux
+269,34.044226,-5.005346,Rond-point Atlas,2023-05-13 13:32:00,grave,37,ensoleillé
+270,34.065906,-4.990519,Bd Mohammed V centre,2023-11-08 05:10:00,léger,120,nuageux
+271,34.055752,-5.031017,Route de Meknès (N6),2024-06-15 09:54:00,léger,55,pluie
+272,34.033777,-4.999003,Avenue Hassan II,2023-11-07 19:34:00,léger,112,nuageux
+273,33.924976,-4.978517,Aéroport Fès-Saïss,2023-06-07 05:42:00,modéré,107,pluie
+274,34.045519,-5.005183,Rond-point Atlas,2023-02-12 00:05:00,léger,112,pluie
+275,33.990334,-4.970544,Route de Sefrou,2024-03-02 19:40:00,léger,110,pluie
+276,33.990078,-4.97014,Route de Sefrou,2023-11-06 15:15:00,modéré,117,brouillard
+277,34.042251,-4.999571,Carrefour Sidi Brahim,2023-03-16 22:03:00,léger,83,brouillard
+278,34.065304,-4.990371,Bd Mohammed V centre,2023-12-15 19:09:00,léger,70,pluie
+279,34.004561,-5.010389,Quartier Saada,2023-05-14 11:32:00,léger,70,nuageux
+280,34.065355,-4.990379,Bd Mohammed V centre,2023-10-01 14:15:00,léger,36,pluie
+281,34.062261,-4.973132,Mellah Fès el-Bali,2024-03-04 07:55:00,grave,71,pluie
+282,34.034084,-5.000593,Avenue Hassan II,2023-06-13 15:32:00,léger,69,brouillard
+283,34.014181,-5.008167,Rond-point Bensouda,2024-02-07 16:29:00,grave,57,pluie
+284,34.011266,-5.008707,Rond-point Bensouda,2023-10-16 15:38:00,modéré,113,brouillard
+285,34.039516,-5.000116,Carrefour Sidi Brahim,2023-01-09 03:27:00,léger,63,pluie
+286,34.045017,-5.003491,Rond-point Atlas,2024-01-10 01:25:00,léger,101,nuageux
+287,34.055294,-5.030197,Route de Meknès (N6),2023-10-23 02:24:00,léger,100,pluie
+288,34.045746,-5.00699,Rond-point Atlas,2023-05-02 04:06:00,léger,73,pluie
+289,34.020212,-5.014306,Quartier Narjiss,2023-07-23 19:32:00,léger,35,ensoleillé
+290,34.011769,-5.006771,Rond-point Bensouda,2023-12-08 15:33:00,léger,107,nuageux
+291,34.041505,-5.000174,Carrefour Sidi Brahim,2023-11-23 05:25:00,grave,68,pluie
+292,34.06557,-4.987956,Bd Mohammed V centre,2024-06-05 17:31:00,modéré,68,brouillard
+293,34.045164,-5.004777,Rond-point Atlas,2024-01-13 10:43:00,léger,83,pluie
+294,34.044587,-5.005765,Rond-point Atlas,2023-01-28 19:30:00,léger,113,nuageux
+295,34.020747,-5.01577,Quartier Narjiss,2024-05-06 05:33:00,modéré,109,brouillard
+296,34.033364,-5.00073,Avenue Hassan II,2023-09-06 01:36:00,grave,44,nuageux
+297,34.013531,-5.0075,Rond-point Bensouda,2023-11-18 13:09:00,léger,56,brouillard
+298,34.065934,-4.990459,Bd Mohammed V centre,2024-04-27 23:46:00,léger,47,nuageux
+299,33.926957,-4.978681,Aéroport Fès-Saïss,2024-05-04 16:24:00,léger,52,brouillard
+300,34.0746,-4.95966,Route d'Immouzer,2023-12-17 17:22:00,modéré,117,pluie
+301,33.990681,-4.97083,Route de Sefrou,2023-07-16 07:17:00,léger,58,pluie
+302,34.045783,-5.00378,Rond-point Atlas,2023-08-01 22:45:00,léger,91,pluie
+303,33.927572,-4.976111,Aéroport Fès-Saïss,2023-10-08 09:07:00,léger,99,brouillard
+304,34.074304,-4.96112,Route d'Immouzer,2024-02-09 11:49:00,modéré,67,ensoleillé
+305,34.039599,-4.998454,Carrefour Sidi Brahim,2023-03-22 11:59:00,léger,62,brouillard
+306,34.033889,-5.00035,Avenue Hassan II,2023-10-05 17:44:00,léger,43,nuageux
+307,34.041452,-5.000813,Carrefour Sidi Brahim,2023-08-20 20:14:00,léger,82,pluie
+308,34.022201,-5.014884,Quartier Narjiss,2023-04-13 21:49:00,léger,100,nuageux
+309,34.055098,-5.029347,Route de Meknès (N6),2024-05-02 15:41:00,léger,66,pluie
+310,34.041633,-4.999599,Carrefour Sidi Brahim,2023-03-02 02:41:00,léger,98,ensoleillé
+311,34.074289,-4.959576,Route d'Immouzer,2023-06-29 13:56:00,modéré,34,brouillard
+312,34.046694,-5.003789,Rond-point Atlas,2023-07-10 23:55:00,grave,34,ensoleillé
+313,34.042634,-5.00026,Carrefour Sidi Brahim,2023-04-20 10:18:00,léger,112,brouillard
+314,34.074109,-4.960113,Route d'Immouzer,2023-05-18 16:29:00,léger,44,pluie
+315,34.03335,-4.999315,Avenue Hassan II,2024-04-14 20:16:00,modéré,31,pluie
+316,34.043477,-5.003623,Rond-point Atlas,2023-07-17 05:39:00,modéré,81,brouillard
+317,34.064858,-4.990384,Bd Mohammed V centre,2023-03-30 12:42:00,léger,47,brouillard
+318,34.040289,-5.001289,Carrefour Sidi Brahim,2023-09-12 00:16:00,léger,87,pluie
+319,34.062741,-4.974934,Mellah Fès el-Bali,2023-11-06 18:46:00,léger,63,pluie
+320,34.018839,-5.016166,Quartier Narjiss,2023-03-05 21:07:00,léger,50,brouillard
+321,34.019698,-5.013498,Quartier Narjiss,2023-11-15 22:07:00,modéré,67,pluie
+322,33.989766,-4.971353,Route de Sefrou,2023-08-13 04:30:00,léger,107,pluie
+323,34.054779,-5.030245,Route de Meknès (N6),2024-04-27 17:51:00,modéré,57,nuageux
+324,33.987573,-4.970049,Route de Sefrou,2023-03-25 16:28:00,léger,76,ensoleillé
+325,34.074792,-4.959373,Route d'Immouzer,2023-04-25 01:53:00,léger,94,nuageux
+326,33.928864,-4.976786,Aéroport Fès-Saïss,2023-06-03 05:20:00,modéré,86,ensoleillé
+327,33.989758,-4.970996,Route de Sefrou,2024-05-15 02:57:00,léger,37,brouillard
+328,34.035616,-5.000247,Avenue Hassan II,2024-03-01 14:36:00,léger,89,pluie
+329,34.020013,-5.015022,Quartier Narjiss,2024-02-10 08:52:00,léger,57,ensoleillé
+330,34.013278,-5.00793,Rond-point Bensouda,2023-12-19 22:04:00,léger,37,ensoleillé
+331,34.079484,-5.020492,Zone industrielle Nord,2024-04-28 01:18:00,léger,47,brouillard
+332,34.054971,-5.030489,Route de Meknès (N6),2024-01-27 14:55:00,grave,78,brouillard
+333,34.012458,-5.007704,Rond-point Bensouda,2023-05-17 20:55:00,léger,52,brouillard
+334,33.926971,-4.976446,Aéroport Fès-Saïss,2023-08-17 00:48:00,léger,68,brouillard
+335,33.987614,-4.969018,Route de Sefrou,2024-03-10 17:24:00,modéré,61,brouillard
+336,34.056121,-5.031866,Route de Meknès (N6),2023-10-10 06:59:00,modéré,44,ensoleillé
+337,34.044692,-5.005334,Rond-point Atlas,2024-03-05 19:49:00,grave,32,nuageux
+338,34.032033,-5.001,Avenue Hassan II,2023-04-14 19:02:00,léger,116,ensoleillé
+339,34.0402,-4.998223,Carrefour Sidi Brahim,2023-02-15 12:28:00,léger,57,ensoleillé
+340,34.034142,-4.999156,Avenue Hassan II,2023-10-24 07:52:00,grave,103,pluie
+341,33.92785,-4.978816,Aéroport Fès-Saïss,2023-11-25 07:19:00,modéré,114,nuageux
+342,34.054528,-5.02956,Route de Meknès (N6),2023-10-09 01:35:00,grave,52,brouillard
+343,33.9261,-4.977158,Aéroport Fès-Saïss,2023-02-18 11:41:00,modéré,97,pluie
+344,34.019784,-5.015337,Quartier Narjiss,2024-02-23 04:19:00,léger,98,brouillard
+345,34.04184,-4.9994,Carrefour Sidi Brahim,2023-08-19 09:54:00,modéré,89,ensoleillé
+346,33.926875,-4.976757,Aéroport Fès-Saïss,2024-03-02 17:33:00,léger,61,pluie
+347,34.032327,-4.999746,Avenue Hassan II,2023-03-22 14:54:00,léger,98,nuageux
+348,34.013634,-5.008079,Rond-point Bensouda,2024-01-22 21:38:00,modéré,39,nuageux
+349,34.045294,-5.006126,Rond-point Atlas,2023-08-11 15:13:00,modéré,72,pluie
+350,34.062832,-4.975166,Mellah Fès el-Bali,2023-01-16 06:59:00,léger,45,brouillard
+351,34.07453,-4.959056,Route d'Immouzer,2023-07-29 12:58:00,léger,71,pluie
+352,34.054366,-5.031268,Route de Meknès (N6),2024-01-03 09:16:00,léger,93,brouillard
+353,34.011699,-5.007255,Rond-point Bensouda,2024-04-25 10:58:00,léger,70,brouillard
+354,34.011948,-5.006221,Rond-point Bensouda,2023-08-15 23:09:00,léger,100,brouillard
+355,34.039326,-4.998273,Carrefour Sidi Brahim,2023-07-20 10:14:00,léger,61,brouillard
+356,33.92739,-4.977887,Aéroport Fès-Saïss,2023-12-12 08:48:00,modéré,112,brouillard
+357,34.06451,-4.989641,Bd Mohammed V centre,2023-12-27 05:08:00,modéré,92,nuageux
+358,34.074966,-4.959007,Route d'Immouzer,2023-03-02 16:02:00,modéré,39,ensoleillé
+359,34.045103,-5.004865,Rond-point Atlas,2024-02-27 04:53:00,modéré,38,nuageux
+360,34.012773,-5.007851,Rond-point Bensouda,2024-06-01 14:23:00,léger,111,brouillard
+361,33.990277,-4.971539,Route de Sefrou,2023-01-17 00:34:00,léger,31,ensoleillé
+362,33.925987,-4.977131,Aéroport Fès-Saïss,2023-10-09 17:18:00,léger,119,brouillard
+363,34.045154,-5.005166,Rond-point Atlas,2023-07-03 03:58:00,léger,49,nuageux
+364,34.033317,-4.999987,Avenue Hassan II,2024-06-23 08:52:00,léger,80,ensoleillé
+365,34.054514,-5.0307,Route de Meknès (N6),2024-02-20 14:36:00,léger,119,nuageux
+366,34.041376,-5.000681,Carrefour Sidi Brahim,2023-03-24 20:54:00,modéré,34,ensoleillé
+367,34.055367,-5.031532,Route de Meknès (N6),2024-01-22 17:30:00,léger,31,nuageux
+368,34.014026,-5.007375,Rond-point Bensouda,2024-03-20 20:50:00,léger,42,ensoleillé
+369,34.04143,-4.998916,Carrefour Sidi Brahim,2024-05-01 08:02:00,grave,117,pluie
+370,34.076499,-4.959087,Route d'Immouzer,2023-02-03 05:59:00,modéré,32,nuageux
+371,33.925543,-4.978952,Aéroport Fès-Saïss,2024-02-12 02:19:00,léger,60,brouillard
+372,33.989438,-4.969977,Route de Sefrou,2023-12-06 12:48:00,modéré,118,ensoleillé
+373,34.065466,-4.990653,Bd Mohammed V centre,2023-12-21 01:06:00,léger,39,pluie
+374,33.990168,-4.97068,Route de Sefrou,2024-02-11 10:01:00,modéré,87,brouillard
+375,34.04065,-5.001066,Carrefour Sidi Brahim,2024-01-20 13:11:00,modéré,114,brouillard
+376,34.012269,-5.009017,Rond-point Bensouda,2023-10-30 07:45:00,léger,64,nuageux
+377,34.054122,-5.029052,Route de Meknès (N6),2023-06-07 23:24:00,léger,43,ensoleillé
+378,34.012246,-5.005431,Rond-point Bensouda,2023-11-12 14:23:00,modéré,43,nuageux
+379,34.013544,-5.007634,Rond-point Bensouda,2024-03-17 14:35:00,léger,82,ensoleillé
+380,34.012327,-5.00717,Rond-point Bensouda,2023-12-29 17:05:00,léger,71,brouillard
+381,34.012582,-5.00769,Rond-point Bensouda,2024-02-28 12:49:00,léger,101,nuageux
+382,33.929504,-4.977886,Aéroport Fès-Saïss,2023-06-23 21:24:00,léger,64,pluie
+383,34.042234,-5.000433,Carrefour Sidi Brahim,2023-05-30 02:10:00,léger,83,pluie
+384,34.064969,-4.988406,Bd Mohammed V centre,2023-03-20 11:16:00,grave,110,brouillard
+385,33.926636,-4.976169,Aéroport Fès-Saïss,2023-07-20 14:06:00,léger,30,brouillard
+386,34.041837,-5.000306,Carrefour Sidi Brahim,2024-01-25 10:28:00,léger,113,nuageux
+387,34.041769,-4.998925,Carrefour Sidi Brahim,2023-07-25 15:20:00,léger,80,pluie
+388,34.04176,-5.001213,Carrefour Sidi Brahim,2024-05-17 18:50:00,léger,78,pluie
+389,34.044346,-5.005223,Rond-point Atlas,2024-02-07 11:07:00,grave,55,nuageux
+390,33.989933,-4.969441,Route de Sefrou,2023-01-28 23:29:00,grave,56,brouillard
+391,34.04516,-5.006202,Rond-point Atlas,2023-03-12 13:43:00,léger,111,pluie
+392,34.041542,-4.99925,Carrefour Sidi Brahim,2023-06-07 22:27:00,modéré,39,brouillard
+393,34.080504,-5.019027,Zone industrielle Nord,2024-05-05 18:25:00,léger,118,brouillard
+394,33.927951,-4.977387,Aéroport Fès-Saïss,2024-01-04 22:57:00,modéré,106,ensoleillé
+395,34.013037,-5.009295,Rond-point Bensouda,2023-09-12 21:42:00,léger,112,ensoleillé
+396,33.927587,-4.977613,Aéroport Fès-Saïss,2024-02-14 10:50:00,léger,31,ensoleillé
+397,34.041444,-5.000949,Carrefour Sidi Brahim,2024-06-06 23:33:00,léger,118,nuageux
+398,34.064027,-4.989052,Bd Mohammed V centre,2024-02-05 14:49:00,modéré,118,nuageux
+399,34.054964,-5.029387,Route de Meknès (N6),2023-01-26 15:06:00,léger,40,ensoleillé
+400,34.045025,-5.004973,Rond-point Atlas,2023-05-26 11:19:00,léger,56,brouillard
+401,34.055844,-5.030464,Route de Meknès (N6),2023-04-10 14:46:00,modéré,70,ensoleillé
+402,34.041287,-5.000216,Carrefour Sidi Brahim,2023-04-28 00:54:00,léger,43,nuageux
+403,34.009609,-5.040278,Quartier Agdal,2023-09-07 16:11:00,léger,72,brouillard
+404,34.0232,-5.028431,Université USMBA,2023-08-26 12:40:00,léger,111,brouillard
+405,34.05613,-5.030805,Route de Meknès (N6),2023-07-22 14:37:00,léger,30,nuageux
+406,34.033132,-5.000696,Avenue Hassan II,2023-03-06 18:06:00,modéré,98,nuageux
+407,34.056302,-5.029823,Route de Meknès (N6),2023-07-21 14:07:00,léger,92,pluie
+408,33.928129,-4.979137,Aéroport Fès-Saïss,2024-02-06 18:07:00,léger,88,nuageux
+409,34.04524,-5.004199,Rond-point Atlas,2023-11-01 19:37:00,léger,47,pluie
+410,34.033374,-4.999341,Avenue Hassan II,2023-11-09 03:11:00,léger,48,brouillard
+411,34.054534,-5.028732,Route de Meknès (N6),2023-05-22 18:24:00,léger,92,nuageux
+412,33.929269,-4.978127,Aéroport Fès-Saïss,2024-05-16 09:08:00,léger,87,ensoleillé
+413,34.044599,-5.003692,Rond-point Atlas,2023-01-10 15:08:00,léger,79,brouillard
+414,34.056422,-5.030471,Route de Meknès (N6),2024-05-18 13:45:00,modéré,92,nuageux
+415,34.012722,-5.008054,Rond-point Bensouda,2023-02-01 07:18:00,léger,58,pluie
+416,34.03209,-5.001127,Avenue Hassan II,2024-04-13 18:47:00,modéré,93,ensoleillé
+417,33.926296,-4.978491,Aéroport Fès-Saïss,2023-10-02 17:52:00,grave,99,ensoleillé
+418,34.044969,-5.004789,Rond-point Atlas,2024-03-27 17:13:00,grave,43,nuageux
+419,34.042595,-5.000699,Carrefour Sidi Brahim,2023-02-03 14:16:00,léger,41,brouillard
+420,34.045886,-5.005193,Rond-point Atlas,2023-05-01 07:13:00,modéré,105,pluie
+421,34.044955,-5.004393,Rond-point Atlas,2024-03-14 05:39:00,léger,56,nuageux
+422,34.04399,-5.004656,Rond-point Atlas,2023-12-26 17:17:00,léger,51,pluie
+423,34.00515,-5.009557,Quartier Saada,2023-10-27 09:36:00,léger,95,ensoleillé
+424,34.03356,-4.99809,Avenue Hassan II,2024-02-26 01:17:00,modéré,46,nuageux
+425,34.040626,-5.000278,Carrefour Sidi Brahim,2023-11-26 07:48:00,modéré,80,brouillard
+426,34.032739,-5.0008,Avenue Hassan II,2023-10-03 20:26:00,léger,39,ensoleillé
+427,34.054426,-5.02893,Route de Meknès (N6),2023-10-12 22:59:00,modéré,88,brouillard
+428,34.042478,-5.000314,Carrefour Sidi Brahim,2023-01-03 23:05:00,modéré,88,pluie
+429,34.044251,-5.004576,Rond-point Atlas,2024-02-12 06:27:00,modéré,93,pluie
+430,34.040703,-4.99923,Carrefour Sidi Brahim,2023-10-18 10:35:00,léger,102,brouillard
+431,34.045183,-5.006364,Rond-point Atlas,2023-02-19 01:06:00,modéré,88,ensoleillé
+432,34.034693,-4.998684,Avenue Hassan II,2023-06-11 14:29:00,léger,84,nuageux
+433,34.079448,-5.020349,Zone industrielle Nord,2023-05-16 20:19:00,léger,65,ensoleillé
+434,33.990257,-4.969699,Route de Sefrou,2023-09-14 02:23:00,modéré,113,nuageux
+435,34.013693,-5.005991,Rond-point Bensouda,2023-11-09 23:44:00,modéré,84,ensoleillé
+436,34.019841,-5.015718,Quartier Narjiss,2023-01-02 06:30:00,léger,105,nuageux
+437,34.063759,-4.990658,Bd Mohammed V centre,2024-03-31 00:00:00,modéré,45,brouillard
+438,34.01997,-5.013385,Quartier Narjiss,2024-05-04 02:14:00,léger,43,ensoleillé
+439,34.040734,-4.999599,Carrefour Sidi Brahim,2023-11-03 04:24:00,modéré,47,nuageux
+440,34.013085,-5.00673,Rond-point Bensouda,2023-01-09 19:41:00,léger,74,nuageux
+441,33.992274,-4.970478,Route de Sefrou,2023-06-05 13:39:00,modéré,57,ensoleillé
+442,34.07456,-4.95906,Route d'Immouzer,2023-05-24 03:37:00,modéré,74,brouillard
+443,34.041814,-4.998138,Carrefour Sidi Brahim,2023-05-24 07:17:00,modéré,61,pluie
+444,34.045526,-5.005323,Rond-point Atlas,2023-01-28 21:56:00,léger,96,nuageux
+445,34.020532,-5.014002,Quartier Narjiss,2023-10-30 20:03:00,modéré,60,brouillard
+446,34.055738,-5.029543,Route de Meknès (N6),2023-09-04 15:40:00,léger,97,ensoleillé
+447,34.08096,-5.018948,Zone industrielle Nord,2023-11-21 04:24:00,modéré,102,brouillard
+448,34.056244,-5.029416,Route de Meknès (N6),2023-06-26 15:49:00,léger,105,ensoleillé
+449,34.01295,-5.007668,Rond-point Bensouda,2023-08-09 01:59:00,léger,80,pluie
+450,33.991086,-4.970735,Route de Sefrou,2024-05-28 13:27:00,modéré,40,nuageux
+451,34.041532,-5.000154,Carrefour Sidi Brahim,2023-11-14 02:32:00,grave,49,pluie
+452,34.055026,-5.028849,Route de Meknès (N6),2023-03-09 09:44:00,léger,60,ensoleillé
+453,34.041372,-4.999758,Carrefour Sidi Brahim,2024-03-20 03:29:00,modéré,37,pluie
+454,33.988776,-4.969328,Route de Sefrou,2023-06-29 03:00:00,modéré,119,ensoleillé
+455,34.033881,-4.998353,Avenue Hassan II,2023-12-22 16:33:00,modéré,63,nuageux
+456,34.054723,-5.029803,Route de Meknès (N6),2023-10-03 23:56:00,léger,33,pluie
+457,34.045224,-5.00358,Rond-point Atlas,2023-10-06 16:04:00,léger,103,ensoleillé
+458,34.064914,-4.989749,Bd Mohammed V centre,2024-06-07 11:03:00,léger,102,nuageux
+459,34.055547,-5.029832,Route de Meknès (N6),2023-09-19 03:57:00,léger,44,nuageux
+460,34.019598,-5.014825,Quartier Narjiss,2023-01-03 01:54:00,modéré,61,ensoleillé
+461,34.065966,-4.990924,Bd Mohammed V centre,2024-01-28 04:11:00,grave,34,brouillard
+462,34.04132,-5.00043,Carrefour Sidi Brahim,2023-09-12 13:58:00,modéré,64,ensoleillé
+463,33.928276,-4.979171,Aéroport Fès-Saïss,2023-05-03 16:43:00,grave,52,nuageux
+464,34.044497,-5.004661,Rond-point Atlas,2023-02-17 12:04:00,modéré,66,pluie
+465,34.042609,-4.999859,Carrefour Sidi Brahim,2024-04-12 00:23:00,léger,102,pluie
+466,34.0195,-5.013307,Quartier Narjiss,2023-09-06 14:23:00,léger,93,nuageux
+467,34.018697,-5.016979,Quartier Narjiss,2023-09-09 04:00:00,grave,33,nuageux
+468,33.927596,-4.978252,Aéroport Fès-Saïss,2023-01-10 10:00:00,modéré,78,pluie
+469,34.012181,-5.007162,Rond-point Bensouda,2023-09-01 13:31:00,grave,48,pluie
+470,34.013319,-5.008308,Rond-point Bensouda,2023-08-26 16:26:00,modéré,77,brouillard
+471,34.003848,-5.009215,Quartier Saada,2023-03-28 18:06:00,léger,111,brouillard
+472,34.013685,-5.007889,Rond-point Bensouda,2023-03-05 13:42:00,grave,60,pluie
+473,34.042862,-5.000763,Carrefour Sidi Brahim,2023-11-19 12:44:00,modéré,71,pluie
+474,34.063627,-4.990623,Bd Mohammed V centre,2023-08-28 02:12:00,léger,104,ensoleillé
+475,34.033259,-5.000081,Avenue Hassan II,2023-06-18 14:29:00,léger,45,pluie
+476,34.022783,-5.027683,Université USMBA,2023-08-01 14:19:00,léger,45,ensoleillé
+477,34.032174,-4.999001,Avenue Hassan II,2023-11-08 22:44:00,modéré,57,pluie
+478,34.033226,-4.999294,Avenue Hassan II,2023-09-12 11:25:00,léger,116,pluie
+479,34.041508,-4.999389,Carrefour Sidi Brahim,2023-06-28 00:25:00,modéré,101,nuageux
+480,34.013613,-5.007397,Rond-point Bensouda,2023-04-15 04:07:00,léger,58,nuageux
+481,34.033878,-4.999104,Avenue Hassan II,2024-02-15 11:43:00,modéré,112,ensoleillé
+482,33.927377,-4.977162,Aéroport Fès-Saïss,2023-09-23 02:01:00,grave,55,brouillard
+483,34.044919,-5.003704,Rond-point Atlas,2023-04-05 10:07:00,léger,89,ensoleillé
+484,34.032691,-4.998679,Avenue Hassan II,2024-03-19 23:25:00,léger,78,brouillard
+485,34.033264,-5.001588,Avenue Hassan II,2023-08-08 05:17:00,léger,49,ensoleillé
+486,33.990115,-4.970613,Route de Sefrou,2023-09-09 20:18:00,léger,100,brouillard
+487,34.013857,-5.008387,Rond-point Bensouda,2023-10-14 12:08:00,léger,112,nuageux
+488,33.989598,-4.971701,Route de Sefrou,2023-01-20 12:50:00,modéré,91,brouillard
+489,34.054593,-5.032181,Route de Meknès (N6),2024-05-29 10:24:00,léger,33,pluie
+490,33.925774,-4.977116,Aéroport Fès-Saïss,2023-01-31 08:03:00,modéré,90,pluie
+491,34.045707,-5.004617,Rond-point Atlas,2023-08-27 05:06:00,léger,60,pluie
+492,33.92633,-4.977843,Aéroport Fès-Saïss,2023-02-27 07:36:00,modéré,79,pluie
+493,34.009997,-5.041043,Quartier Agdal,2023-06-27 05:15:00,léger,119,pluie
+494,34.076353,-4.95921,Route d'Immouzer,2023-01-29 22:44:00,léger,102,nuageux
+495,33.927001,-4.977776,Aéroport Fès-Saïss,2023-07-12 15:34:00,léger,92,ensoleillé
+496,34.013288,-5.009638,Rond-point Bensouda,2023-08-27 19:14:00,léger,91,ensoleillé
+497,34.040978,-5.000414,Carrefour Sidi Brahim,2023-07-26 04:21:00,modéré,71,ensoleillé
+498,34.012199,-5.008053,Rond-point Bensouda,2023-05-26 03:54:00,léger,76,ensoleillé
+499,34.056618,-5.029423,Route de Meknès (N6),2024-02-10 18:06:00,léger,71,nuageux
+500,34.004486,-5.009485,Quartier Saada,2024-03-23 20:31:00,modéré,52,pluie
