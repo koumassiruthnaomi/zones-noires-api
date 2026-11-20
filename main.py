@@ -119,3 +119,4 @@ def accueil():
 def toutes_les_zones():
     return JSONResponse({"total": len(ZONES_NOIRES), "zones": ZONES_NOIRES})
 
+    
