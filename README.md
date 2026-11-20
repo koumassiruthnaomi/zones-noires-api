@@ -1,5 +1,7 @@
 # API Zones Noires : détection des zones accidentogènes à Fès
 
+Mon rôle : département financier de la junior-entreprise, et appui sur la partie IA, en particulier le module des zones noires.
+
 API FastAPI qui repère les zones accidentogènes de Fès à partir d'un jeu de données d'accidents, par regroupement spatial (DBSCAN). Elle a été conçue comme brique du projet S2R (casque intelligent) : l'idée est de comparer la position d'un conducteur à ces zones pour anticiper un risque.
 
 > **Données simulées.** Le fichier `accidents_fes.csv` est généré par `generer_data.py` (500 accidents fictifs répartis autour de lieux réels de Fès). Il ne s'agit pas de statistiques officielles.
@@ -67,4 +69,4 @@ Démo en ligne : https://zones-noires-api-1.onrender.com
 Projet S2R (Smart Riding Revolution)
 ![](./test3.jpeg)
 
-Mon rôle : département financier de la junior-entreprise, et appui sur la partie IA, en particulier le module des zones noires.
+
