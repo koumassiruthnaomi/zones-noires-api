@@ -65,5 +65,6 @@ Démo en ligne : https://zones-noires-api-1.onrender.com
 ## Équipe
 
 Projet S2R (Smart Riding Revolution)
+![](./test3.jpeg)
 
 Mon rôle : département financier de la junior-entreprise, et appui sur la partie IA, en particulier le module des zones noires.
