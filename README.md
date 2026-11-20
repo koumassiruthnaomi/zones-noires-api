@@ -26,6 +26,7 @@ Paramètres dans `main.py` :
 | GET | `/` | Page HTML récapitulant les zones noires |
 | GET | `/zones-noires` | Les zones au format JSON |
 | GET | `/docs` | Documentation interactive (Swagger) |
+![](./test2.jpeg)
 
 ## Lancer en local
 
