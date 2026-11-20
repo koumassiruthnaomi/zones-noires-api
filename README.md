@@ -50,7 +50,7 @@ python generer_data.py
 bash start.sh
 ```
 
-Démo en ligne : [À COMPLÉTER : adresse Render]
+Démo en ligne : https://zones-noires-api-1.onrender.com
 
 ## Limites
 
@@ -61,6 +61,6 @@ Démo en ligne : [À COMPLÉTER : adresse Render]
 
 ## Équipe
 
-Projet S2R (Smart Riding Revolution), équipe SICoSE.
+Projet S2R (Smart Riding Revolution)
 
 Mon rôle : département financier de la junior-entreprise, et appui sur la partie IA, en particulier le module des zones noires.
